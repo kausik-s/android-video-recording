@@ -1,0 +1,47 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-camera-preview": {
+      "ANDROID_SUPPORT_LIBRARY_VERSION": "26+",
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "com.unionpay.screenrecord": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "in.lucasdup.bringtofront": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "phonegap-plugin-media-stream": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "phonegap-plugin-media-recorder": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-background-upload": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  }
+}

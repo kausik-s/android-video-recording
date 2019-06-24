@@ -1,0 +1,53 @@
+{
+  "_from": "cordova-plugin-screenrecord",
+  "_id": "cordova-plugin-screenrecord@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-8NawSmBchVJhbGcUotDMHkkoUpz8R57Q4aIas+sTjSZUR3DGgrbGrZBAdoXNrjNFHwQtl3KsmRBFHWAyJgJsFw==",
+  "_location": "/cordova-plugin-screenrecord",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-screenrecord",
+    "name": "cordova-plugin-screenrecord",
+    "escapedName": "cordova-plugin-screenrecord",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-screenrecord/-/cordova-plugin-screenrecord-0.0.5.tgz",
+  "_shasum": "f7271817a5edfee9293d7dd1cd27ba715c9a583e",
+  "_spec": "cordova-plugin-screenrecord",
+  "_where": "D:\\Kausik\\Development\\Organization\\TCS\\CORDOVA\\hello",
+  "author": {
+    "name": "charles0427"
+  },
+  "bugs": {
+    "url": "https://github.com/monkeyDledger/cordova-plugin-screenrecord/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.unionpay.screenrecord",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "using MediaRecorder or MediaMuxer to record Android device's screen",
+  "homepage": "https://github.com/monkeyDledger/cordova-plugin-screenrecord#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-screenrecord",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeyDledger/cordova-plugin-screenrecord.git"
+  },
+  "version": "0.0.5"
+}

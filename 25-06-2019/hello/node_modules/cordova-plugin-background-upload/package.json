@@ -1,0 +1,77 @@
+{
+  "_from": "cordova-plugin-background-upload",
+  "_id": "cordova-plugin-background-upload@1.0.16",
+  "_inBundle": false,
+  "_integrity": "sha512-fzrtN+Pa2k2fAyNM0FmCw1FJZ2IuusbF77kUvo8giS6tm4R0x1+TwENYG5eP9ictDdB6eA4fdmMpB/zLVgqCyA==",
+  "_location": "/cordova-plugin-background-upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-background-upload",
+    "name": "cordova-plugin-background-upload",
+    "escapedName": "cordova-plugin-background-upload",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-background-upload/-/cordova-plugin-background-upload-1.0.16.tgz",
+  "_shasum": "480ccb8a0fddea8498500ef010bd9c5d54965608",
+  "_spec": "cordova-plugin-background-upload",
+  "_where": "D:\\Kausik\\Development\\Organization\\TCS\\CORDOVA\\hello",
+  "author": {
+    "name": "Mevin Dhunnooa"
+  },
+  "bugs": {
+    "url": "https://github.com/spoonconsulting/cordova-plugin-background-upload/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Luc Boissaye",
+      "email": "luc@boissaye.fr",
+      "url": "https://github.com/ombr"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-background-upload",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Cordova plugin for uploading file in the background",
+  "devDependencies": {},
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/spoonconsulting/cordova-plugin-background-upload#readme",
+  "keywords": [
+    "cordova",
+    "background",
+    "file",
+    "upload",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-background-upload",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spoonconsulting/cordova-plugin-background-upload.git"
+  },
+  "scripts": {},
+  "types": "./types/index.d.ts",
+  "version": "1.0.16"
+}
